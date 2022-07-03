@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @johcarvalho
+- 👋 Hi, I’m @joaocarvalho
 - 👀 I’m interested in Python World
 - 🌱 I’m Python Developer
 - 💞️ I’m looking to collaborate on IT companies
